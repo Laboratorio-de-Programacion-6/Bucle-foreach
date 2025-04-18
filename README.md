@@ -2,7 +2,7 @@
 
 # Ejercicio de Análisis de Ventas
 
-## 📝Enunciado: Análisis de Ventas 
+## Enunciado: Análisis de Ventas 
 **Se tiene un arreglo de objetos que representa las ventas realizadas por una empresa durante el año. Cada objeto dentro del arreglo representa una venta individual y contiene información relevante sobre la misma. La estructura de cada objeto es la siguiente:**
 ```json
 {
@@ -37,18 +37,18 @@ const ventas = generarDatasetVentas(20); // por ejemplo, 20 ventas
 ```
 
 
-## 🎯 Objetivos del ejercicio
+##  Objetivos del ejercicio
 Utilizando únicamente el método forEach y estructuras imperativas como if, switch, variables, etc., debes implementar en consola:
 
-1. 📊 Mostrar la cantidad total de unidades vendidas en todo el año.
+1.  Mostrar la cantidad total de unidades vendidas en todo el año.
 ```bash
 Total unidades vendidas en el año: 
 ```
-2. 💰 Calcular el ingreso total anual (unidades × precio unitario por cada venta).
+2.  Calcular el ingreso total anual (unidades × precio unitario por cada venta).
 ```bash
 Ingreso total anual:
 ```
-3. 🧾 Generar un reporte de ingresos mensuales con el siguiente formato:
+3.  Generar un reporte de ingresos mensuales con el siguiente formato:
 
 ```bash
 Enero: $4500
@@ -56,7 +56,7 @@ Febrero: $6000
 Marzo: 
 Abril: 
 ```
-4. 🥇 Mostrar el nombre del mes con mayor ingreso y el valor total.
+4.  Mostrar el nombre del mes con mayor ingreso y el valor total.
 
 ```bash
 Mes con mayor ingreso: Enero ()
